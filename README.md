@@ -2,6 +2,18 @@
 Vive se esquecendo do que fazer no cotidiano? Talvez esse software possa ser a solução!
 
 >**TODO**: Finalizar a documentação do projeto
+
+-----
+## Documentação da API 
+
+A Api está armazenada dentro da URL `https://todo-list-rocket.onrender.com/` e já está disponível para consumo
+
+### Rotas disponíveis
+
+- `POST` - `users/` - Essa rota da documentação ajuda a criar o usuário [link do tutorial](#3-crie-seu-usuário) #TODO
+- `GET` - `tasks/` - #TODO
+- `PUT` - `tasks/` - #TODO
+
 -----
 ## Sobre o projeto 
 
@@ -11,12 +23,12 @@ O projeto foi desenvolvido completamente utilizando **Java** como linguagem de p
 
 >Para se utilizar o programa, é recomendado que utilize serviços de suportes para API's, como por exemplo o [Apidog](https://apidog.com/) ou o [Postman](https://www.postman.com/). Nesta documentação, estarei ensinando pelo método do **Postman**.
 
-1. Acessar/Criar um login no Postman
+### 1. Acessar/Criar um login no Postman
    Acesse [esse link](https://identity.getpostman.com/login) e faça o login/cadastre-se no site.
 
-2. Crie um novo projeto
+### 2. Crie um novo projeto
 
-3. Crie seu usuário
+### 3. Crie seu usuário
   
    ``
 {
@@ -26,12 +38,12 @@ O projeto foi desenvolvido completamente utilizando **Java** como linguagem de p
 }
    ``
    
-4. Faça login com seu usuário
+### 4. Faça login com seu usuário
 
-5. Crie sua primeira atividade
+### 5. Crie sua primeira atividade
    
-6. Visualize todas as suas atividades
+### 6. Visualize todas as suas atividades
 
-7. Atualize sua atividade
+### 7. Atualize sua atividade
 
 Caso aja algum erro durante a execução do software, favor entrar em contato com [nycolaspimentel12@gmail.com](mailto:nycolaspimentel12@gmail.com), ou pelo GitHub [@Nycolas-Galdino](https://github.com/Nycolas-Galdino).
